@@ -1,2 +1,2 @@
 
-/opt/Xilinx/Vivado/2015.4/settings64.sh
+/opt/Xilinx/Vivado/2020.1/settings64.sh
